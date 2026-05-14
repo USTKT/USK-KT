@@ -1,5 +1,5 @@
 # UST-KT
-
+<img src="https://github.com/USTKT/USK-KT/blob/main/Picture/model.jpg?raw=true" width="700">
 ## Installation
 Create conda envirment.
 
